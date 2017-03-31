@@ -9,7 +9,7 @@ function askUserToRemoveAds() {
     confirmButtonText: "Yes, remove ads!",
     closeOnConfirm: false,
     closeOnCancel: false,
-    imageUrl: "images/Choozy.png"
+    imageUrl: "images/choozy.png"
   },
 
     function (isConfirm) {

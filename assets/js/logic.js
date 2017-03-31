@@ -2,7 +2,7 @@
 function askUserToRemoveAds() {
   swal({
     title: "Remove ads?",
-    text: "View Choozy video ad, and all other ads weill be removed.",
+    text: "View Choozy video ad, and all other ads will be removed.",
     showCancelButton: true,
     cancelButtonText: "",
     confirmButtonColor: "#f2c802",
